@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Dr Tickets</title>
+  <icon>https://www.gravatar.com/avatar/253cd04cabe4c3d83e1308cc5bf6f1f7</icon>
+  <subtitle>전 세계 콘서트 및 공연 티켓</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.drtickets.net/"/>
+  <updated>2020-01-23T10:29:02.586Z</updated>
+  <id>https://www.drtickets.net/</id>
+  
+  <author>
+    <name>Dr Tickets</name>
+    <email>kr@drtickets.net</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>BTS 유럽 투어 날짜 2020|런던 | 베를린 | 바르셀로나</title>
+    <link href="https://www.drtickets.net/bts-eu/"/>
+    <id>https://www.drtickets.net/bts-eu/</id>
+    <published>2020-01-23T10:29:02.586Z</published>
+    <updated>2020-01-23T10:29:02.586Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/concert.jpg" alt="BTS 유럽 ​​콘서트2020"></p><p>방탄 손연 단, BTS는 2020 년 7 월 런던, 베를린, 독일, 베를린, 바르셀로나, 스페인과 같은 많은 유럽 도시에서 “소울 투어 맵”콘서트를 개최합니다. BTS를 좋아하는 친구들도 놓치지 마세요! 이 페이지에주의를 기울이면 언제든지 티켓 구매 정보가 업데이트됩니다!</p><h2 id="런던-콘서트"><a href="#런던-콘서트" class="headerlink" title="런던 콘서트"></a>런던 콘서트</h2><p>Time: 2020.07.03/04<br>Location: Twickenham Stadium</p><h2 id="베를린-콘서트"><a href="#베를린-콘서트" class="headerlink" title="베를린 콘서트"></a>베를린 콘서트</h2><p>Time: 2020.07.11/12<br>Location: Olympiastadion Berlin</p><h2 id="바르셀로나-콘서트"><a href="#바르셀로나-콘서트" class="headerlink" title="바르셀로나 콘서트"></a>바르셀로나 콘서트</h2><p>Time: 2020.07.17/18<br>Location: Estadi Olímpic Lluís Companys</p>]]></content>
+    
+    <summary type="html">
+    
+      BTS 유럽 투어 날짜 2020
+    
+    </summary>
+    
+      <category term="유럽" scheme="https://www.drtickets.net/categories/%EC%9C%A0%EB%9F%BD/"/>
+    
+    
+      <category term="BTS" scheme="https://www.drtickets.net/tags/BTS/"/>
+    
+      <category term="유럽 ​​콘서트" scheme="https://www.drtickets.net/tags/%EC%9C%A0%EB%9F%BD-%E2%80%8B%E2%80%8B%EC%BD%98%EC%84%9C%ED%8A%B8/"/>
+    
+      <category term="런던" scheme="https://www.drtickets.net/tags/%EB%9F%B0%EB%8D%98/"/>
+    
+      <category term="베를린" scheme="https://www.drtickets.net/tags/%EB%B2%A0%EB%A5%BC%EB%A6%B0/"/>
+    
+      <category term="바르셀로나" scheme="https://www.drtickets.net/tags/%EB%B0%94%EB%A5%B4%EC%85%80%EB%A1%9C%EB%82%98/"/>
+    
+  </entry>
+  
+</feed>
